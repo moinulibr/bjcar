@@ -2,7 +2,7 @@
 	Please accept this repository request from your gmail. 
 	* create a branch : like dev-arif
 	* pull from testing branch. 
-	* pull your local car application
+	* push your local car application project code base
 	* finally add this project in this repository like..
 		git add .
 		git commit -m "your commit"
