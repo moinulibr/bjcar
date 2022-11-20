@@ -1,0 +1,16 @@
+	
+	Please accept this repository request from your gmail. 
+	* create a branch : like dev-arif
+	* pull from testing branch. 
+	* pull your local car application
+	* finally add this project in this repository like..
+		git add .
+		git commit -m "your commit"
+		git push origin dev-arif
+	
+		or, you can manage this all command by hitbub desktop app... 
+	
+		**** please manage migration files for all tables even if remove/add any table's column***
+	thank you 
+	
+
